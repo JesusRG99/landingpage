@@ -67,3 +67,13 @@ a{
     text-align: center;
     align-content: center;
 }
+
+button, button:hover, button:active, button:focus {
+    border: none;
+    border-radius: 8px;
+    background: #3882f6;
+    color: white;
+    font-size: 20px;
+    width: 100px;
+    margin-top: 10px;
+}
