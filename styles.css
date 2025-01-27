@@ -126,6 +126,7 @@ button{
 
 .info img {
     outline: 1px solid #3882f6;
+    max-width: 200px;
 }
 
 .thirdsection{
